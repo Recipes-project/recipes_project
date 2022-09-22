@@ -63,6 +63,6 @@
   - 목록 클릭 시 레시피 링크 자동 접속 구현
     
 # 최종 결과
-![홈플러스 깃에 올릴거](https://user-images.githubusercontent.com/108312150/191684600-3f83d90d-88fa-4024-b30a-74fd3cfaf3c0.gif)
+![홈플러스 깃에 올릴거](https://user-images.githubusercontent.com/108312150/191685290-e0197ea5-fdb9-4bf4-803e-7523199dc319.gif)
 
   
