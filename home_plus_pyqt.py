@@ -32,7 +32,7 @@ list_A = list(set(list_A))
 list_A
 
 
-recipes_ui = 'C:/localRepository/recipes_project/recipes.ui'
+recipes_ui = 'C:/localRepository/recipes_oraganization/recipes.ui'
 
 
 class MyWindow(QMainWindow):

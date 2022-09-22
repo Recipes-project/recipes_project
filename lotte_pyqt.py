@@ -28,7 +28,7 @@ for A in range(len(list_d)):
     list_A.append(ori_A)
 
 
-recipes_ui = 'C:/localRepository/recipes_project/recipes.ui'
+recipes_ui = 'C:/localRepository/recipes_oraganization/recipes.ui'
 
 
 class MyWindow(QMainWindow):
