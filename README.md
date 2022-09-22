@@ -63,5 +63,6 @@
   - 목록 클릭 시 레시피 링크 자동 접속 구현
     
 # 최종 결과
-![서비스_구동_녹화_영상_중](https://user-images.githubusercontent.com/108312150/191643230-01dd880a-c911-4956-a356-474b8c8cbf0c.gif)
+![홈플러스 깃에 올릴거](https://user-images.githubusercontent.com/108312150/191684600-3f83d90d-88fa-4024-b30a-74fd3cfaf3c0.gif)
+
   
