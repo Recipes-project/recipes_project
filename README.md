@@ -33,7 +33,7 @@
   - 정규식을 이용해 재료 데이터에서 한글을 제외한 숫자, 영어, 특수문자 등을 제거
   - 불용어를 stopword로 직접 지정해 재료와 관련없는 문자 삭제
 #### 주요 코드
-![전처리 코드1](https://user-images.githubusercontent.com/108312150/191641925-1dbb5772-2474-4e83-998a-a42457639801.png)
+![image](https://user-images.githubusercontent.com/108312150/194186175-696c6e1e-2dfb-4f05-aef0-76c5c3d07a71.png)
 #### 결과
 ![전처리 결과1](https://user-images.githubusercontent.com/108312150/191641995-27c0edd3-26ca-40b3-803d-82315c45b507.png)
 
