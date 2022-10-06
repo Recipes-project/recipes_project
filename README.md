@@ -28,7 +28,7 @@
 
 ## 전처리
 ### 학습을 위해 레시피 재료 전처리
-- 파일 : lotte_final.ipynb
+- 파일 : home_plus.ipynb
   - Okt를 이용해 재료 데이터 토큰화
   - 정규식을 이용해 재료 데이터에서 한글을 제외한 숫자, 영어, 특수문자 등을 제거
   - 불용어를 stopword로 직접 지정해 재료와 관련없는 문자 삭제
@@ -39,7 +39,7 @@
 
 ## OCR
 ### easyOcr을 이용해 영수증 이미지에서 텍스트 추출
-- 파일 : lotte_final.ipynb
+- 파일 : home_plus.ipynb
 #### 주요 코드
 ![전처리 영수증,텍스트 변환 코드](https://user-images.githubusercontent.com/108312150/191643407-e99e56cc-d253-4899-93fb-0ea19843213e.png)
 #### 결과
@@ -47,7 +47,7 @@
 
 ## 학습
 ### Word2Vec(토큰화된 재료 데이터를 학습시켜 입력값과 가장 유사한 단어를 추출하도록 학습)
-- 파일 : lotte_final.ipynb
+- 파일 : home_plus.ipynb
 #### 주요 코드
 ![학습 코드1](https://user-images.githubusercontent.com/108312150/191642329-4115343c-9398-4643-82fb-a7a700fc741a.png)
 '우유'를 입력했을 때 '우유'와 가장 유사한 단어 10개 추출
