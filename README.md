@@ -51,10 +51,13 @@
 #### 주요 코드
 ![학습 코드1](https://user-images.githubusercontent.com/108312150/191642329-4115343c-9398-4643-82fb-a7a700fc741a.png)
 '우유'를 입력했을 때 '우유'와 가장 유사한 단어 10개 추출
+
 ![image](https://user-images.githubusercontent.com/108312150/194186530-679d529f-b1c0-4e98-b88a-f6847e2fd87e.png)
 영수증에서 추출한 재료 목록에서 필요없는 단어 삭제
+
 ![image](https://user-images.githubusercontent.com/108312150/194186615-a4f828b9-93a9-4541-b9ff-20de57e8d8a8.png)
 재료 이름 분절화
+
 ![image](https://user-images.githubusercontent.com/108312150/194186693-977280fe-0750-496c-b417-ccb9804a5ea2.png)
 분절화된 재료 이름을 학습 모델에 넣어 메인 재료 이름 추출
 #### 결과
