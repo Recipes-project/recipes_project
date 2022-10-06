@@ -51,9 +51,14 @@
 #### 주요 코드
 ![학습 코드1](https://user-images.githubusercontent.com/108312150/191642329-4115343c-9398-4643-82fb-a7a700fc741a.png)
 '우유'를 입력했을 때 '우유'와 가장 유사한 단어 10개 추출
+![image](https://user-images.githubusercontent.com/108312150/194186530-679d529f-b1c0-4e98-b88a-f6847e2fd87e.png)
+영수증에서 추출한 재료 목록에서 필요없는 단어 삭제
+![image](https://user-images.githubusercontent.com/108312150/194186615-a4f828b9-93a9-4541-b9ff-20de57e8d8a8.png)
+재료 이름 분절화
+![image](https://user-images.githubusercontent.com/108312150/194186693-977280fe-0750-496c-b417-ccb9804a5ea2.png)
+분절화된 재료 이름을 학습 모델에 넣어 메인 재료 이름 추출
 #### 결과
-![학습 코드2](https://user-images.githubusercontent.com/108312150/191642396-561e447b-391d-4c0a-b356-71179c003f6b.png)
-영수증에서 추출한 텍스트를 유사한 단어로 치환해서 '서울우유'를 '우유'로 자동 변환하는 기능을 구현하고 싶었지만, 데이터가 부족해 학습히 원활히 이루어지지 않아 구매한 상품명은 임의로 지정함
+![image](https://user-images.githubusercontent.com/108312150/194186784-259785f7-5f99-4df3-be37-a36a3b4e2e84.png)
   
 ## 시각화
 ### Qt Designer를 활용해 시스템 시각화
