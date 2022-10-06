@@ -61,6 +61,7 @@
 재료 이름 분절화
 
 ![image](https://user-images.githubusercontent.com/108312150/194186693-977280fe-0750-496c-b417-ccb9804a5ea2.png)
+
 분절화된 재료 이름을 학습 모델에 넣어 메인 재료 이름 추출
 #### 결과
 ![image](https://user-images.githubusercontent.com/108312150/194186784-259785f7-5f99-4df3-be37-a36a3b4e2e84.png)
